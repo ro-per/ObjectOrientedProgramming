@@ -1,4 +1,12 @@
 # ObjectOrientedProgramming
+## DISCLAIMER
+Niet alle oefeningen zijn correct opgelost! Deze repository dient voornamlijk om de grote lijnen aan te geven van welke opgaves er zijn.
+Bevat zeker nog fouten:
+- Zombies
+- Verzameling
+- Overerving
+    - Dokter
+- Huis
 ## Author
 - [Romeo Permentier](https://github.com/ro-per)
 ## About this project
