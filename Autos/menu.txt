@@ -1,0 +1,29 @@
+---Kies je auto---
+
+A) aankooprijs		B)onderhoudskost
+1 zeer duur		5 zeer duur
+2 duur			6 duur
+3 gemiddeld		7 gemiddeld
+4 goedkoop		8 goedkoop
+
+C)#deuren		D)#zitplaatsen
+9 twee			13 tweezitter
+10 drie			14 vier zitplaatsen
+11 vier			15 nog meer
+12 vijf of meer
+
+
+E)volume koffer		F)veiligheids-klasse
+16 klein			19 lage
+17 gemiddeld		20 gemiddeld
+18 groot			21 hoog
+
+
+G)klasse		exit menu --> 0
+22 schroothoop
+23 normaal
+24 comfortabel
+25 luxueus
+	
+
+
